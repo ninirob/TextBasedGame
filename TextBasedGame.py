@@ -137,17 +137,14 @@ def showStatus(currentRoom, inventory, rooms):
     if room_items:  # Check if there are items in the room
         if isinstance(room_items, list):  # Multiple items in the room
             print("You see the following items:", ", ".join(room_items))
-            for item in room_items:
-                ascii_items_art(item)  # Display ASCII art for each item
         else:  # Single item in the room
-            if room_items.lower() == "supplies":
+            item = room_items.lower()
+            if item == "supplies":
                 print(f"You see the {room_items}.")  # Use 'the' for supplies
             else:
                 print(f"You see a {room_items}.")
-            ascii_items_art(room_items)
     else:
         print("There is nothing here.")
-
 
 # Movement function
 def move(direction, currentRoom, rooms):

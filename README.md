@@ -1,26 +1,22 @@
-# Python Game Projects
+N Roberts IT 145
+## Python Game Projects
 
 This repository contains a series of Python projects that demonstrate key programming concepts and culminates in the creation of a text-based alien game. The projects include a “Higher or Lower” guessing game, a module milestone connecting dictionaries and if-then statements, room connections, and building the foundation for the final text-based alien game.
 
---Projects Overview
+# Projects Overview:
 
-1. Higher or Lower Game
+🎯 Higher or Lower Game
+- A simple game where the player must guess a randomly generated number. The program will guide the player with hints, indicating if the guess is too high or too low. 🔢
+- This project covers basic Python concepts, including conditionals, loops, and user input handling.
 
-	•	A simple game where the player must guess a randomly generated number. The program will guide the player with hints, indicating if the guess is too high or too low.
-	•	This project covers basic Python concepts, including conditionals, loops, and user input handling.
+🛠️ Module Milestone Project: Connecting Dictionaries and If-Then Statements
+- A module that introduces working with dictionaries and if-then statements in Python. 📚
+- The project focuses on building a logic structure using conditionals and dictionaries to make decisions in the game.
 
-3. Module Milestone Project: Connecting Dictionaries and If-Then Statements
-
-	•	A module that introduces working with dictionaries and if-then statements in Python.
-	•	The project focuses on building a logic structure using conditionals and dictionaries to make decisions in the game.
-	•	In this part of the project, the code sets up the foundational logic for a text-based adventure game, including room connections and handling player choices.
-	•	This section explores the use of dictionaries for storing room information and logic for connecting different parts of the game world.
-
-5. Text-Based Alien Game
-
-	•	The final project, a text-based alien adventure game, showcases everything learned throughout the course.
-	•	Players explore different rooms, while trying to collect items all items and reach the escape pod  without going the wrong direction to end up in the Alien Hive Room! 
-	•	The game utilizes lots of ASCII art, loops, conditionals, dictionaries, and functions to create an interactive and engaging experience.
+👽 Text-Based Alien Game
+- The final project, a text-based alien adventure game, showcases everything learned throughout the course. 🌌
+- Players explore different rooms while trying to collect all items and reach the escape pod without ending up in the Alien Hive Room! 💥
+- The game utilizes lots of ASCII art, loops, conditionals, dictionaries, and functions to create an interactive and engaging experience.
 
 ** Getting Started **
 

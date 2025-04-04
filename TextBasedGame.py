@@ -1,4 +1,5 @@
-# Nilaris Roberts
+# N Roberts
+# IT 145
 
 
 # Game art, define instructions

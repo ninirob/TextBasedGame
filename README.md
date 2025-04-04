@@ -18,7 +18,7 @@ This repository contains a series of Python projects that demonstrate key progra
 - Players explore different rooms while trying to collect all items and reach the escape pod without ending up in the Alien Hive Room! 💥
 - The game utilizes lots of ASCII art, loops, conditionals, dictionaries, and functions to create an interactive and engaging experience.
 
-** Getting Started **
+## ** Getting Started **
 
 -To run the game on your local machine, follow the instructions below.
 
